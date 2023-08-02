@@ -1,7 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
-  "homepage": "https://perezyzabelle.github.io/perezyzabelle.github.io",
+  "homepage": "http://perezyzabelle.github.io/perezyzabelle.github.io",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
@@ -17,7 +17,7 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
-    "predeploy": "yarn run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
