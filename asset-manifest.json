@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/perezyzabelle.github.io/static/css/main.abd64e84.css",
+    "main.js": "/perezyzabelle.github.io/static/js/main.3248542c.js",
+    "static/js/787.fb771931.chunk.js": "/perezyzabelle.github.io/static/js/787.fb771931.chunk.js",
+    "index.html": "/perezyzabelle.github.io/index.html",
+    "main.abd64e84.css.map": "/perezyzabelle.github.io/static/css/main.abd64e84.css.map",
+    "main.3248542c.js.map": "/perezyzabelle.github.io/static/js/main.3248542c.js.map",
+    "787.fb771931.chunk.js.map": "/perezyzabelle.github.io/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.3248542c.js"
+  ]
+}
